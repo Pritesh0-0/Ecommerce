@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    height: 100px;
+    background-color: aqua;
+}
+
+.buts {
+    margin: auto;
+    font-size: 30px;
+
+}
+
+.buts:hover {
+    color: red;
+    cursor: grab;
+}
